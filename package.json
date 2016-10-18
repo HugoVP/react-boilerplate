@@ -8,6 +8,10 @@
   },
   "author": "Hugo",
   "license": "MIT",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/hugovp/react-boilerplate.git"
+  },
   "dependencies": {
     "express": "^4.14.0",
     "react": "^15.3.2",
